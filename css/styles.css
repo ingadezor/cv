@@ -1,0 +1,23 @@
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width: 7%;
+  border-width: 4px;
+  border-color: #b9cccc;
+}
+
+
+body{
+  background-color: #F8EDE3;
+  color: #454a4f;
+}
+
+h2, h3{
+  color: #6e786d;
+}
+
+
+
+ td{
+  vertical-align: top;
+}
